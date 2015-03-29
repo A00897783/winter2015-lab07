@@ -1,3 +1,3 @@
 <div class="row">
-A burger?
+{output}
 </div>
